@@ -15,7 +15,7 @@ Crafted by **[Stephen William G. De Jesus](https://www.facebook.com/stephenwilli
 ---
 
 ## 🌐 Live Demo  
-[View Live Demo](https://bogiiiie.github.io/03-javascript-temperature-converter/) 
+[View Live Demo](https://bogiiiie.github.io/11-javascript-temperature-converter/) 
 ---
 
 ## ✨ Features
